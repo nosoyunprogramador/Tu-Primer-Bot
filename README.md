@@ -1,7 +1,7 @@
 # Tu Primer Bot
 
-Si llegaste hasta aquí comenta en el post que tipo de bots de te gustaria crear 🫵
-Y no te olvides de seguirme por IG para más contenido dev-alor
+Si llegaste hasta aquí comenta en el post que tipo de bots de te gustaria crear 🫵<br/>
+Y no te olvides de seguirme por <a href="https://www.instagram.com/nosoyunprogramador/">IG</a> para más contenido dev-alor
 
 ## Instrucciones
 
@@ -13,7 +13,7 @@ Para hacer el correcto setup del proyecto solo necesitas dos cositas que hacer �
 npm i
 ```
 
-2. Crear un archivo `.env` la raiz del proyecto con las siguientes variables:
+2. Crear un archivo `.env` en la raíz del proyecto con las siguientes variables:
 
 ```
 TOKEN = token_de_tu_bot
