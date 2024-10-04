@@ -1,0 +1,34 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Código base para armar tu bot de Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosoyunprogramador/chatgpt-en-discord.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "bot",
+    "de",
+    "Discord",
+    "discord",
+    "js"
+  ],
+  "author": "no soy un programador",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nosoyunprogramador/chatgpt-en-discord/issues"
+  },
+  "homepage": "https://github.com/nosoyunprogramador/chatgpt-en-discord#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "glob": "^8.0.3"
+  }
+}
